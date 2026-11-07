@@ -37,10 +37,6 @@ Le projet déploie une API TypeScript (`visits-app`) qui compte les visites dans
 
 ---
 
-## 📸 Captures d'écran
-
-Toutes les captures sont disponibles dans le dossier [`captures/`](captures/).
-
 ### 🛠️ Partie 1 : Couches et cache
 
 #### 1. Versions de Docker, Compose et Buildx
@@ -65,6 +61,8 @@ Toutes les captures sont disponibles dans le dossier [`captures/`](captures/).
 
 #### 7. Scan Trivy (vulnérabilités HIGH/CRITICAL)
 ![07](captures/07_trivy_naive.png)
+![07](captures/07_trivy_naive2.png)
+
 
 #### 8. Utilisateur root dans l'image naïve
 ![08](captures/08_run_naive_id.png)
@@ -96,6 +94,7 @@ Toutes les captures sont disponibles dans le dossier [`captures/`](captures/).
 
 #### 16. Démarrage de la pile
 ![16](captures/16_compose_up.png)
+![16](captures/16_compose2_up.png)
 
 #### 17. État des conteneurs (db healthy)
 ![17](captures/17_compose_ps.png)
