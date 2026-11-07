@@ -9,7 +9,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15--alpine-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
 📄 **[Télécharger le rapport complet (PDF)](rapport_tp7.pdf)**
-
 </div>
 
 ---
