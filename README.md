@@ -94,7 +94,7 @@ Le projet déploie une API TypeScript (`visits-app`) qui compte les visites dans
 
 #### 16. Démarrage de la pile
 ![16](captures/16_compose_up.png)
-![16](captures/16_compose2_up.png)
+![16](captures/16_compose_up2.png)
 
 #### 17. État des conteneurs (db healthy)
 ![17](captures/17_compose_ps.png)
